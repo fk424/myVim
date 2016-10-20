@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/private/etc/apache2/extra/vhost'
+let g:netrw_dirhist_2='/private/etc/apache2/extra'
+let g:netrw_dirhist_3='/Users/fengkai/.vim/bundle/vary.vim'
+let g:netrw_dirhist_4='/private/etc/apache2/extra/vhost'
+let g:netrw_dirhist_5='/opt/www/code/yaf_sample/application/library/smarty'
+let g:netrw_dirhist_6='/opt/www/code/yaf_sample/application'
+let g:netrw_dirhist_7='/opt/www/code/yaf_sample/application/library'
+let g:netrw_dirhist_8='/opt/www/code/yaf/app/actions/Plan'
